@@ -51,7 +51,7 @@
             }
         });
 
-# use below code to php
+# use below code and place on Apache
 
 
       <?php
